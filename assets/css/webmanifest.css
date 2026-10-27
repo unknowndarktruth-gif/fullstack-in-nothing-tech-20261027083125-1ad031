@@ -1,0 +1,78 @@
+{
+  "name": "Nothing",
+  "short_name": "Nothing",
+  "description": "Here at Nothing, we're building a world where tech is fun again. Remember a time where every new product made you excited? We're bringing that back.",
+  "start_url": "/?utm_source=webmanifest",
+  "display": "standalone",
+  "background_color": "#f5f5f5",
+  "theme_color": "#f5f5f5",
+  "orientation": "portrait-primary",
+  "shortcuts": [
+    {
+      "name": "Offers",
+      "short_name": "Offers",
+      "description": "View our offers",
+      "url": "/offers?utm_source=webmanifest_shortcut"
+    },
+    {
+      "name": "All Products",
+      "short_name": "All Products",
+      "description": "View all our products",
+      "url": "/collections/shop-all?utm_source=webmanifest_shortcut"
+    },
+    {
+      "name": "Phones",
+      "short_name": "Phones",
+      "description": "View all our phones",
+      "url": "/collections/phones?utm_source=webmanifest_shortcut",
+      "icons": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0376/5420/0459/files/Phone-4a-Pro-White.png?v=1771948315",
+          "sizes": "192x192",
+          "type": "image/png",
+          "purpose": "any maskable"
+        }
+      ]
+    },
+    {
+      "name": "Audio",
+      "short_name": "Audio",
+      "description": "View all our audio products",
+      "url": "/collections/audio?utm_source=webmanifest_shortcut",
+      "icons": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0376/5420/0459/files/Headphone-a-white.png?v=1771948423",
+          "sizes": "192x192",
+          "type": "image/png",
+          "purpose": "any maskable"
+        }
+      ]
+    }
+  ],
+  "icons": [
+    {
+      "src": "https://cdn.shopify.com/oxygen-v2/44152/39458/83049/4865782/assets/D2M2tjlT.png",
+      "sizes": "32x32",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://cdn.shopify.com/oxygen-v2/44152/39458/83049/4865782/assets/Bkp3sDzU.png",
+      "sizes": "128x128",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://cdn.shopify.com/oxygen-v2/44152/39458/83049/4865782/assets/h1vz1cxz.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://cdn.shopify.com/oxygen-v2/44152/39458/83049/4865782/assets/CdhElyLS.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
