@@ -1,0 +1,1 @@
+import{n as e}from"./GmbM5doQ.js";function t(t){let n=typeof t==`string`&&t.includes(`,`)?t.split(`,`):t;return Array.isArray(n)&&(n=n.filter(e=>typeof e==`string`&&e.length>0)),e(n),n===`raw`?`drafts`:n}function n(){return typeof document>`u`}export{t as n,n as t};
