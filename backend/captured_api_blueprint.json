@@ -1,0 +1,21 @@
+{
+  "target_url": "https://in.nothing.tech/",
+  "captured_endpoints_count": 0,
+  "captured_endpoints": [],
+  "forms_detected": [
+    {
+      "action": "",
+      "method": "POST",
+      "inputs": [
+        {
+          "name": "email",
+          "type": "email"
+        },
+        {
+          "name": "_R_1a34j5_",
+          "type": "checkbox"
+        }
+      ]
+    }
+  ]
+}
